@@ -6,6 +6,11 @@ add tailwindcss
 #features
 - login / signup 
     sign in / sign up screen 
+    form validation 
+    useref hook 
+    firebae setup 
+    deploying app to production
+    
 - browse (after authentication)
        header 
        mian movie 
