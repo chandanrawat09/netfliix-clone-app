@@ -10,6 +10,7 @@ add tailwindcss
     useref hook 
     firebae setup 
     deploying app to production
+    create sign up account in firebase
     
 - browse (after authentication)
        header 
